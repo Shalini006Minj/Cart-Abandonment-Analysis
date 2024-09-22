@@ -13,3 +13,16 @@
 -- Toys	(product id-P033)	1
 -- Clothing	(product id-P008)	1
 
+Recommendations:
+-- Implement strategies to focus on simplifying the checkout process and addressing pain points such as unexpected fees or limited payment methods
+   and monitor key performance indicators (KPIs) like abandonment rates at different payment stages.
+-- Marketing teams can develop re-engagement campaigns like abandoned cart emails and push notifications. They can test different promotions 
+   (e.g., discounts, free shipping) to see which incentives drive higher cart recovery.
+
+3. Average amount spent by users who completed purchases:
+-- The average amount spent by users is 223.32.
+
+Recommendations:
+-- Average amount can be used as a baseline for targeting specific marketing campaigns, typically for customers who spend less than 223.32 could be targeted with      offers on mid-range products to encourage higher spending.
+
+
