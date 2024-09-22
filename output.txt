@@ -1,0 +1,6 @@
+# Key Insights We Can Derive:
+
+1. Percentage of users abandoning carts: 
+-- Abandonment rate is 48%
+-- A 48% rate is significantly lower, which is a good sign implying that the shopping experience on the platform is more streamlined, offering better user experience, 
+   optimized checkout processes, and more attractive shipping and return policies.

@@ -1,8 +1,0 @@
-# Key Insights We Can Derive:
-
-1. Percentage of users abandoning carts: 
--- The cart abandonment rate comes to 48.00%, meaning 48% of users added items to their shopping carts but did not finish their purchases. 
--- Possible reasons could be the complex checkout process, unexpected high shipping costs or taxes, limited payment or shipping options and comparison shopping.  
-
-Recommendations:
--- To make the checkout process  
