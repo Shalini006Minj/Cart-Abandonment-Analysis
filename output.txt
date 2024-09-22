@@ -23,6 +23,7 @@ Recommendations:
 -- The average amount spent by users is 223.32.
 
 Recommendations:
--- Average amount can be used as a baseline for targeting specific marketing campaigns, typically for customers who spend less than 223.32 could be targeted with      offers on mid-range products to encourage higher spending.
+-- Average amount can be used as a baseline for targeting specific marketing campaigns, typically for customers who spend less than 223.32 
+   could be targeted with offers on mid-range products to encourage higher spending.
 
 
