@@ -14,7 +14,7 @@
 -- Clothing	(product id-P008)	1
 
 Recommendations:
--- Implement strategies to focus on simplifying the checkout process and addressing pain points such as unexpected fees or limited payment methods
+-- Implement strategies to focus on addressing pain points such as unexpected fees or limited payment methods
    and monitor key performance indicators (KPIs) like abandonment rates at different payment stages.
 -- Marketing teams can develop re-engagement campaigns like abandoned cart emails and push notifications. They can test different promotions 
    (e.g., discounts, free shipping) to see which incentives drive higher cart recovery.
@@ -25,5 +25,12 @@ Recommendations:
 Recommendations:
 -- Average amount can be used as a baseline for targeting specific marketing campaigns, typically for customers who spend less than 223.32 
    could be targeted with offers on mid-range products to encourage higher spending.
+-- Analyzing the products typically bought by customers spending around the average (or above and below) could reveal patterns, helping with 
+   inventory management or marketing strategies for specific products.
+
+4. Which products are most often bought?
+-- Books appear twice in the top 5, indicating a consistent demand for products in this category.
+-- Electronics, Toys, and Clothing also show strong purchase rates, suggesting they are attractive categories for customers.
+
 
 
