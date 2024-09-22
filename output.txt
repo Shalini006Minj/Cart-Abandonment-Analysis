@@ -4,3 +4,12 @@
 -- Abandonment rate is 48%
 -- A 48% rate is significantly lower, which is a good sign implying that the shopping experience on the platform is more streamlined, 
    offering a better user experience, optimized checkout processes, and more attractive shipping and return policies.
+-- For more information on why the rate is considered a good sign visit https://capturly.com/blog/average-cart-abandonment-rate-by-industry/
+
+2. Most Abandoned Products (Top 5):
+-- Home & Kitchen	(product id-P005)	2
+-- Books	(product id-P039)	2
+-- Home & Kitchen	(product id-P043)	1
+-- Toys	(product id-P033)	1
+-- Clothing	(product id-P008)	1
+
